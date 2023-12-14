@@ -5,7 +5,7 @@ import Navbar from './Components/Navbar'
 const App = () => {
   return (
     <main>
-      <h1> Todo react with Typescript </h1>
+      <h1> Todo react Akash with Typescript </h1>
       <Navbar/>
       <AddTodo/>
       <Todos/>
